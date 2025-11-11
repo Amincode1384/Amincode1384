@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amin Izadi</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
-<img aling="right" alt="Amincode1384" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img aling="right" alt="Amincode1384" width="400" src="[https://i.redd.it/n8agw6z2smyb1.gif](https://thumb.r2.moele.me/t/35996/35986017/a-0060.jpg)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amincode1384&label=Profile%20views&color=0e75b6&style=flat" alt="amincode1384" /> </p>
 
 - 🔭 I’m currently working on **About a Telegram bot built with Python to book university event registrations**
