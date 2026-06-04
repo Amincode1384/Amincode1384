@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amin</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Vibe Coder in Iran</h3>
-
+<img align = "right" alt ="Amin code" width ="400" src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 - 🔭 I’m currently working on [Ecommerce Customer](https://github.com/Amincode1384/linear-regression)
 
 - 🌱 I’m currently learning **"I am currently focused on learning Machine Learning while also expanding my skills in various AI tools."**
